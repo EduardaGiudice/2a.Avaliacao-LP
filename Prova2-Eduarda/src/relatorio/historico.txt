@@ -1,0 +1,18 @@
+Data da Pesagem:23/11/2023
+Nome:Juliana
+CPF: 394.839.483-43
+IMC: 23,53
+Classificação: Peso ideal
+
+Data da Pesagem:23/11/2023
+Nome:Eduarda
+CPF: 384.938.493-74
+IMC: 25,54
+Classificação: Excesso de peso
+
+Data da Pesagem:23/11/2023
+Nome:Juliana
+CPF: 394.839.483-43
+IMC: 24,91
+Classificação: Peso ideal
+
